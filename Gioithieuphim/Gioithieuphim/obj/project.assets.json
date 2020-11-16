@@ -6178,11 +6178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
+      "projectUniqueName": "D:\\gioithieuphim\\gioithieuphim\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
       "projectName": "Gioithieuphim",
-      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
+      "projectPath": "D:\\gioithieuphim\\gioithieuphim\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Gioithieuphim\\Gioithieuphim\\obj\\",
+      "outputPath": "D:\\gioithieuphim\\gioithieuphim\\Gioithieuphim\\Gioithieuphim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

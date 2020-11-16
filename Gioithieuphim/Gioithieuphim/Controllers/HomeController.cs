@@ -23,6 +23,7 @@ namespace Gioithieuphim.Controllers
         }
         public IActionResult Index()
         {
+            
             return View();
         }
 
@@ -33,6 +34,7 @@ namespace Gioithieuphim.Controllers
 
         public IActionResult Gallery()
         {
+
             return View();
         }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

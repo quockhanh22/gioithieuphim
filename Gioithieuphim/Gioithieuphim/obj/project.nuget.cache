@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hMJWIr03uKtL4FWgWMUpfxoEK1xKObLpQG6c07noXeRujLiBVCwxlB6j62bK6PzyvC7rcIzEzgm1xmeIHf5lMQ==",
+  "dgSpecHash": "cN45Mw7awIT9qac94XN3wDzE8jmFSuXHCj/L7RRWaJ/AEGhf9YIKXWkSNZq6fO8+Bx2mxnZgYNgBqF6ekdMFOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
+  "projectFilePath": "D:\\gioithieuphim\\gioithieuphim\\Gioithieuphim\\Gioithieuphim\\Gioithieuphim.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",
