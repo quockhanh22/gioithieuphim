@@ -735,7 +735,6 @@ D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\bin\Debug\netcoreapp3
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.csprojAssemblyReference.cache
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.AssemblyInfoInputs.cache
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.AssemblyInfo.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.csproj.CoreCompileInputs.cache
@@ -746,12 +745,18 @@ D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.TagHelpers.input.cache
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.TagHelpers.output.cache
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.RazorCoreGenerate.cache
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Category\Delete.cshtml.g.cs
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccount.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutDashboard.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -765,5 +770,3 @@ D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.dll
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.pdb
 D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Gioithieuphim.genruntimeconfig.cache
-D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAccount.cshtml.g.cs
-D:\gioithieuphim\gioithieuphim\Gioithieuphim\Gioithieuphim\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
